@@ -1,4 +1,4 @@
-# 이나즈마 일레븐 3 세계로의 도전!! NDS 한국어 패치 v1.0.4
+# 이나즈마 일레븐 3 세계로의 도전!! NDS 한국어 패치 v1.0.4.1
 
 배포일: 2026-11-21\
 대상: 일본판 세 판 — 디 오우거 BOEJ, 스파크 BE8J, 봄버 BEZJ, 모두 revision 0
@@ -23,38 +23,31 @@
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| InazumaEleven3-Ogre-KO-v1.0.4.nds | 536,870,912 | c8063c7122ac677f125978ad9cc604951f5a08e1305019534d6dd5a6964142df |
-| InazumaEleven3-Spark-KO-v1.0.4.nds | 536,870,912 | cf96a38de0a19ff7a8599ebc6b881995f09034c6403aca025db31876b2d0200f |
-| InazumaEleven3-Bomber-KO-v1.0.4.nds | 536,870,912 | 6703cb64703f47463ef3fd1b94bf14b93765c0bbcd1ba6d6a641caa314016a32 |
+| InazumaEleven3-Ogre-KO-v1.0.4.1.nds | 536,870,912 | e6efcb02e1e16851b771b50cb27b003de03808c4832679dd48cbe5137aa72b1e |
+| InazumaEleven3-Spark-KO-v1.0.4.1.nds | 536,870,912 | a61e91fc37cb1701c6e2ddda5d2c3a16146b1841e00105327e484c736403424c |
+| InazumaEleven3-Bomber-KO-v1.0.4.1.nds | 536,870,912 | 4a1d1b8fce3c3a01f79cae3b267d337ce098756c3a79d12fd5fda53679899d32 |
 
 결과 SHA-1:
 
-- InazumaEleven3-Ogre-KO-v1.0.4.nds: `b3514579511f5dca7c685bd6616bfd924581e536`
-- InazumaEleven3-Spark-KO-v1.0.4.nds: `886a2ffe7036aa3bdecef1c2a1f4661d9f420fec`
-- InazumaEleven3-Bomber-KO-v1.0.4.nds: `524cf4cd46100ae533c6a771d58050a6fc93fde2`
+- InazumaEleven3-Ogre-KO-v1.0.4.1.nds: `33d5b4d53f41438c6a38953a95844856f28c092e`
+- InazumaEleven3-Spark-KO-v1.0.4.1.nds: `1ad8dca612c2bfeeac2d7f49bdb107ca43b2254c`
+- InazumaEleven3-Bomber-KO-v1.0.4.1.nds: `6b90cd6b420bde87ac35721bd95382134af48822`
 
 ## 배포 파일
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| InazumaEleven3-Ogre-KO-v1.0.4.zip | 8,759,618 | f6b69eb152255ff3e46324796fce6ee9c20dbc9893f4b6b27dab847ad3ef4e31 |
-| InazumaEleven3-Spark-KO-v1.0.4.zip | 7,541,547 | a41a5dc22a2e4c67b50e51ee26f19bbed7ddf612ca0dd8a82ffe533d67227c19 |
-| InazumaEleven3-Bomber-KO-v1.0.4.zip | 7,483,037 | 5b3c05cbf22c911107db7d660d8bba91160db937d90109fd581de995e744031b |
-| InazumaEleven3-Ogre-KO-v1.0.4.bps | 10,091,522 | 3ace466837ed7a348f22c0d31d10a1ff61bdd30e29564a9893abf195c9ebb0b3 |
-| InazumaEleven3-Spark-KO-v1.0.4.bps | 8,765,884 | 406f78ab53a5d34d035fc2f955a25f2859f8528cadb600fb8ae378daa63f5ca1 |
-| InazumaEleven3-Bomber-KO-v1.0.4.bps | 8,708,048 | 92c59909daebc703ba365c8f240021e7cb72089adf5508d28573e6a1ac7257ab |
+| InazumaEleven3-Ogre-KO-v1.0.4.1.zip | 8,760,145 | 8654f25e0640a613cbb1fa6c2c709d5c9f2b33754c8ee507d443b21498921bce |
+| InazumaEleven3-Spark-KO-v1.0.4.1.zip | 7,542,101 | e91f3f622936d07f83559a0a79001f60dcdacc539a463ff917ac3c4cd21d7519 |
+| InazumaEleven3-Bomber-KO-v1.0.4.1.zip | 7,483,546 | 4c04b3b295924bee37349deaf86fdfe16a3363ecc196fffb43a5579d553dfe04 |
+| InazumaEleven3-Ogre-KO-v1.0.4.1.bps | 10,091,542 | b9f40db2f9a861ab5fc80a6e57602a43b7b112106d814fff1bdc0725c965dc99 |
+| InazumaEleven3-Spark-KO-v1.0.4.1.bps | 8,765,852 | e1f97f2acdb106c2fe77ef39decdbc825b94d9a9ea59f7c286c740501e508889 |
+| InazumaEleven3-Bomber-KO-v1.0.4.1.bps | 8,708,021 | 4bc54da80cd5539a88c7c666bc4830c7ea336260c032c528c23cf42cb60a9b90 |
 
 ZIP에는 BPS 패치, 적용 스크립트(apply_patch.py, bps.py), 설명서(README.txt), manifest.json, 사용한 글꼴 6종의 라이선스가 들어 있습니다. 내려받은 파일은 SHA256SUMS.txt로 확인할 수 있습니다.
 
-## 추가 기능
-
-번역 외에 새로 넣은 기능입니다. 일본 서비스가 끝났거나 다른 판이 있어야 얻을 수 있던 요소를 통신 없이 혼자 얻을 수 있게 했습니다. 해금 데이터는 원래 ROM 안에 있던 것입니다.
-
 ### 세 판 공통
 
-- **한글 입력:** 내 이름, 팀 이름, 통신 프로필, 암호 입력을 두벌식 조합 자판으로 바꿨습니다. 자모를 조합해 한글 2,350자를 입력합니다.
-- **가나다 바인더:** 선수 바인더의 탭과 이름순을 가나다 순서로 바꿨습니다(가 나 다 라 마 바 사 아 자 하).
-- **자동 조사:** 이름이나 아이템이 문장에 끼어들 때 받침에 맞춰 조사를 고릅니다. 은/는, 이/가, 을/를, 과/와, 으로/로, 아/야, 이야/야, 이다/다 8쌍을 지원하며, 지금 문장에 쓰는 것은 이/가, 을/를, 과/와, 으로/로입니다. 숫자와 영문 끝글자도 읽는 소리로 판단합니다. 대사와 메뉴뿐 아니라 블로그와 팀 이름 문구에도 적용했습니다.
 - **암호를 게임 안에서 알기:** 일본판에서 잡지나 웹으로 공개하던 NPC 암호를 한글 정답으로 바꾸고, 해당 NPC가 대사에서 정답을 알려 주게 했습니다. 묻는 NPC가 없는 디 오우거의 극장판 암호는 입력 화면에 정답을 적었습니다.
 - **배포 받기:** 통신 → 다운로드의 「Wi-Fi로 다운로드」나 「무선으로 다운로드」를 고르면 실제 통신 없이 배포 전체를 한 번에 받습니다. 배포 선수 60명(Wi-Fi 52명, 무선 8명)과 배포 아이템(디 오우거 19종, 스파크·봄버 20종)이며 블로그 알림도 생깁니다. 받은 뒤 저장을 고르고 이어하기로 불러와야 반영되며, 저장하지 않으면 남지 않습니다. 아이템은 상점에서 원래 가격으로 사고, 선수는 원래 방법으로 영입합니다.
 - **프리미엄 스카우트·아이템:** 통신 → 다운로드의 「2→3 슈퍼 링크」에서 스카우트와 아이템을 통신 없이 고릅니다. 디 오우거는 「오우거 프리미엄 링크」도 같습니다. 원래 상대 게임의 팀을 보던 조건은 껐습니다. 스토리가 어느 정도 진행된 세이브에서 열립니다.
