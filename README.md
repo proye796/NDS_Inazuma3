@@ -1,6 +1,6 @@
-# 이나즈마 일레븐 3 세계로의 도전!! NDS 한국어 패치 v1.0.4.1
+# 이나즈마 일레븐 3 세계로의 도전!! NDS 한국어 패치 v1.0.4.2
 
-배포일: 2026-11-21\
+배포일: 2026-11-22\
 대상: 일본판 세 판 — 디 오우거 BOEJ, 스파크 BE8J, 봄버 BEZJ, 모두 revision 0
 
 배포 ZIP에는 원본 ROM이나 패치 완료 ROM이 포함되지 않습니다. 정품에서 추출한 아래 해시와 일치하는 일본판 NDS ROM이 필요합니다. 판마다 패치가 따로 있으니 가지고 있는 판의 파일을 쓰세요.
@@ -23,28 +23,32 @@
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| InazumaEleven3-Ogre-KO-v1.0.4.1.nds | 536,870,912 | e6efcb02e1e16851b771b50cb27b003de03808c4832679dd48cbe5137aa72b1e |
-| InazumaEleven3-Spark-KO-v1.0.4.1.nds | 536,870,912 | a61e91fc37cb1701c6e2ddda5d2c3a16146b1841e00105327e484c736403424c |
-| InazumaEleven3-Bomber-KO-v1.0.4.1.nds | 536,870,912 | 4a1d1b8fce3c3a01f79cae3b267d337ce098756c3a79d12fd5fda53679899d32 |
+| InazumaEleven3-Ogre-KO-v1.0.4.2.nds | 536,870,912 | 4156b63d63c17c88b0ff6507e66f5b9a51be895633fce22fe3673578fb2984bf |
+| InazumaEleven3-Spark-KO-v1.0.4.2.nds | 536,870,912 | a988ef592775b4918f07e81b5ca4123f9873a8195ca9c17ced076662d5f1351f |
+| InazumaEleven3-Bomber-KO-v1.0.4.2.nds | 536,870,912 | 3d9b7ed28e1252b8d976e3ce15bad5ff94a151e44940b4f83871f54aa038440e |
 
 결과 SHA-1:
 
-- InazumaEleven3-Ogre-KO-v1.0.4.1.nds: `33d5b4d53f41438c6a38953a95844856f28c092e`
-- InazumaEleven3-Spark-KO-v1.0.4.1.nds: `1ad8dca612c2bfeeac2d7f49bdb107ca43b2254c`
-- InazumaEleven3-Bomber-KO-v1.0.4.1.nds: `6b90cd6b420bde87ac35721bd95382134af48822`
+- InazumaEleven3-Ogre-KO-v1.0.4.2.nds: `b0e3b75eda836f93c46546bd0e9c36a94f99c2cb`
+- InazumaEleven3-Spark-KO-v1.0.4.2.nds: `05ad8fc34d133ef8e6db531b079406c1ec7a9bc0`
+- InazumaEleven3-Bomber-KO-v1.0.4.2.nds: `af01eb32ddec33bcba079564eb50c07d622fa473`
 
 ## 배포 파일
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| InazumaEleven3-Ogre-KO-v1.0.4.1.zip | 8,760,145 | 8654f25e0640a613cbb1fa6c2c709d5c9f2b33754c8ee507d443b21498921bce |
-| InazumaEleven3-Spark-KO-v1.0.4.1.zip | 7,542,101 | e91f3f622936d07f83559a0a79001f60dcdacc539a463ff917ac3c4cd21d7519 |
-| InazumaEleven3-Bomber-KO-v1.0.4.1.zip | 7,483,546 | 4c04b3b295924bee37349deaf86fdfe16a3363ecc196fffb43a5579d553dfe04 |
-| InazumaEleven3-Ogre-KO-v1.0.4.1.bps | 10,091,542 | b9f40db2f9a861ab5fc80a6e57602a43b7b112106d814fff1bdc0725c965dc99 |
-| InazumaEleven3-Spark-KO-v1.0.4.1.bps | 8,765,852 | e1f97f2acdb106c2fe77ef39decdbc825b94d9a9ea59f7c286c740501e508889 |
-| InazumaEleven3-Bomber-KO-v1.0.4.1.bps | 8,708,021 | 4bc54da80cd5539a88c7c666bc4830c7ea336260c032c528c23cf42cb60a9b90 |
+| InazumaEleven3-Ogre-KO-v1.0.4.2.zip | 8,760,221 | 19480f3fb74e9cf01033de76758ef68a98fea11185715435cd5933ebc171d2dc |
+| InazumaEleven3-Spark-KO-v1.0.4.2.zip | 7,542,162 | 0a4010bcec2003a2bbf4304742a0302de9466fca0347463a4c9696ab0b966676 |
+| InazumaEleven3-Bomber-KO-v1.0.4.2.zip | 7,483,614 | e7adf8a5261dc8e05e2093912c85b6eaff11ccb1a0ce3accd89bda110e66c097 |
+| InazumaEleven3-Ogre-KO-v1.0.4.2.bps | 10,091,349 | 949e05ccab93b9ef7b5fc80d05ba93206918a027eaea0be40529611f6ffa9c28 |
+| InazumaEleven3-Spark-KO-v1.0.4.2.bps | 8,765,578 | 158b611e94e7fc30bdec84732be6561befaa3cc7d564743eb26dd4a51faf3897 |
+| InazumaEleven3-Bomber-KO-v1.0.4.2.bps | 8,707,740 | e6a7c9dfdda4e7be689dfa36ff1fda7dd538ab707813307b57926dd5922dd206 |
 
 ZIP에는 BPS 패치, 적용 스크립트(apply_patch.py, bps.py), 설명서(README.txt), manifest.json, 사용한 글꼴 6종의 라이선스가 들어 있습니다. 내려받은 파일은 SHA256SUMS.txt로 확인할 수 있습니다.
+
+## 추가 기능
+
+번역 외에 새로 넣은 기능입니다. 일본 서비스가 끝났거나 다른 판이 있어야 얻을 수 있던 요소를 통신 없이 혼자 얻을 수 있게 했습니다. 해금 데이터는 원래 ROM 안에 있던 것입니다.
 
 ### 세 판 공통
 
