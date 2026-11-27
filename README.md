@@ -23,26 +23,26 @@
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| InazumaEleven3-Ogre-KO-v1.0.5.nds | 536,870,912 | 2e38f1403376da900a6e33e94faf114e8370c83d94b0ba3257042fa24dd2576b |
-| InazumaEleven3-Spark-KO-v1.0.5.nds | 536,870,912 | 51d1bbebe7f34151c452542d206ee9053fea4cdc83e5790e6f64d8c73787f886 |
-| InazumaEleven3-Bomber-KO-v1.0.5.nds | 536,870,912 | b771ba7ac400a55266569a24cbedd96ce7c10b54ceede37a447bb1e4fd482780 |
+| InazumaEleven3-Ogre-KO-v1.0.5.nds | 536,870,912 | 081436999fe3dc9f3f4bec7e02e40679cb3d267055c377257aca32f3ea90cffe |
+| InazumaEleven3-Spark-KO-v1.0.5.nds | 536,870,912 | 8d430428b0209ddd2fe8de44ef2489d8af55ee46cf6fe0052d0686da07b936c5 |
+| InazumaEleven3-Bomber-KO-v1.0.5.nds | 536,870,912 | 45e84e5fa6ca537a9fb82b0cf5ef9243983d32832b0150f61f428c45487afc99 |
 
 결과 SHA-1:
 
-- InazumaEleven3-Ogre-KO-v1.0.5.nds: `0b9961a36ebbca3a7652a784c40604a13e8f2312`
-- InazumaEleven3-Spark-KO-v1.0.5.nds: `165c9866472656309da71f4222d3a0dd1c9b3b46`
-- InazumaEleven3-Bomber-KO-v1.0.5.nds: `758edbf04bd71b79ebc648ba7ffbe530a7bd1e4f`
+- InazumaEleven3-Ogre-KO-v1.0.5.nds: `e82aca2beb53f4b99b92b95c081b5687646fcfee`
+- InazumaEleven3-Spark-KO-v1.0.5.nds: `3c16553717ace147fb8a8b511dc1ab693e783ea7`
+- InazumaEleven3-Bomber-KO-v1.0.5.nds: `4cebe496ebd3c843e1c4341c5e438def5f28797a`
 
 ## 배포 파일
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| InazumaEleven3-Ogre-KO-v1.0.5.zip | 8,788,744 | 96efbea4aea8756445205ad3b0a8464b2e87a2fabb51249f3208a476bb31883d |
-| InazumaEleven3-Spark-KO-v1.0.5.zip | 7,570,732 | 548fdf89cc178aeac90d4d3af0dcf55dd8877beab28c2c350ac35abc69d61fcf |
-| InazumaEleven3-Bomber-KO-v1.0.5.zip | 7,510,743 | f32cab6dd30a48a095ced3918c818c045181efb48a161836db87ef45e58fde74 |
-| InazumaEleven3-Ogre-KO-v1.0.5.bps | 10,119,975 | 2b957aec2e813f95d118a99f1ea4bd2b6beb2649e19550e0d4a8ff6e0eefc51b |
-| InazumaEleven3-Spark-KO-v1.0.5.bps | 8,792,434 | b8d1cea267f2ae190b0273f1c9801b2cae6baec343115418a51719fafa633247 |
-| InazumaEleven3-Bomber-KO-v1.0.5.bps | 8,734,533 | 645dda62de650de365b0f29b0d0e24fe492b3b27a4f3c018b719caf8e95beff7 |
+| InazumaEleven3-Ogre-KO-v1.0.5.zip | 8,789,978 | c13cde5af33a439be63b776dc4843b2af91fa08cc06ca88d0028ab179fc255ce |
+| InazumaEleven3-Spark-KO-v1.0.5.zip | 7,571,382 | 336dcee7a56e263d15bde5ecf4a2f42dc7dc3c6c639e40cd3579eee9db538707 |
+| InazumaEleven3-Bomber-KO-v1.0.5.zip | 7,510,966 | ccd3674e0450a9a0756df18432ba2085b4ba8ccf69c62053091b86e52ab06e9e |
+| InazumaEleven3-Ogre-KO-v1.0.5.bps | 10,120,496 | c10c666ba388db9873c084649ac5306ef35288f12d66b7eb87fdfe58de6f35b1 |
+| InazumaEleven3-Spark-KO-v1.0.5.bps | 8,791,717 | 5edeb69fe8ebde7bf806bcc5d503537d3bdf292112d1c588080f5a3f3ec54c1e |
+| InazumaEleven3-Bomber-KO-v1.0.5.bps | 8,733,862 | 8c0bb7cf39fda23bb19f9bed95b9ac2e93023778bcaea7137bff5186cc8674f2 |
 
 ZIP에는 BPS 패치, 적용 스크립트(apply_patch.py, bps.py), 설명서(README.txt), manifest.json, 사용한 글꼴 6종의 라이선스가 들어 있습니다. 내려받은 파일은 SHA256SUMS.txt로 확인할 수 있습니다.
 
