@@ -1,4 +1,4 @@
-# 이나즈마 일레븐 3 세계로의 도전!! NDS 한국어 패치 v1.0.6.2
+# 이나즈마 일레븐 3 세계로의 도전!! NDS 한국어 패치 v1.0.7
 
 배포일: 2026-11-28\
 대상: 일본판 세 판 — 디 오우거 BOEJ, 스파크 BE8J, 봄버 BEZJ, 모두 revision 0
@@ -23,37 +23,41 @@
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| InazumaEleven3-Ogre-KO-v1.0.6.2.nds | 536,870,912 | 28816686bf48014f45588db3bd7002dbf9b1196f5f71b782a11b9d1776c1cd55 |
-| InazumaEleven3-Spark-KO-v1.0.6.2.nds | 536,870,912 | 988a336ba81dbcc815c867b2df53b6e402c9b662e04ec0dd2fe9ba83a914163a |
-| InazumaEleven3-Bomber-KO-v1.0.6.2.nds | 536,870,912 | 58e18d65aca836e95714192c4a3c43653ee367fb4e68900f11869d446262d6c1 |
+| InazumaEleven3-Ogre-KO-v1.0.7.nds | 536,870,912 | 7032a2b8558ed59ea491cb2740a001d8e59755489068ed1f24dfd49ea8370606 |
+| InazumaEleven3-Spark-KO-v1.0.7.nds | 536,870,912 | 827cda1e961cb2052a05144b750e05672e22ce0a5acfde7377f933d6e2de1a0a |
+| InazumaEleven3-Bomber-KO-v1.0.7.nds | 536,870,912 | 28ce28ce6b97a6182e29f5c1615132c6bd47f26313da00e6c3c48b595e0a9cfd |
 
 결과 SHA-1:
 
-- InazumaEleven3-Ogre-KO-v1.0.6.2.nds: `4511db2b668cc19ea9b7fa0b64163cf03c3531c1`
-- InazumaEleven3-Spark-KO-v1.0.6.2.nds: `e6d21cf701b53ad0ca8ccfbf65bf656892b49e8f`
-- InazumaEleven3-Bomber-KO-v1.0.6.2.nds: `f73b7a1232f6b38cc47f73b75691a2d7eaa87fc5`
+- InazumaEleven3-Ogre-KO-v1.0.7.nds: `54dac5cb4c62f40fabfaaef31fb660586a104d9a`
+- InazumaEleven3-Spark-KO-v1.0.7.nds: `9c971afdd48bae23f3902090855baf34cb857d1c`
+- InazumaEleven3-Bomber-KO-v1.0.7.nds: `a9be65a8681bc260789226c3248824dd83403dc5`
 
 ## 배포 파일
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| InazumaEleven3-Ogre-KO-v1.0.6.2.zip | 8,813,423 | 587ee0f55fa2819db78acd83ae34c0c7435ce43ab7045719b25a535d401790ee |
-| InazumaEleven3-Spark-KO-v1.0.6.2.zip | 7,594,228 | 89bf2353220a0e712e26dec105bc3782a1da3cec9d01eb9d5ec9d0a7f9d63264 |
-| InazumaEleven3-Bomber-KO-v1.0.6.2.zip | 7,534,451 | 76f0b257aa01b09c4f8759e939462a0d578aa82173b0a1d393168fc8aae14910 |
-| InazumaEleven3-Ogre-KO-v1.0.6.2.bps | 10,143,932 | f8feb73b235b141bcacdb157ea07aa1527769654aec719274b9f16163e6c0caf |
-| InazumaEleven3-Spark-KO-v1.0.6.2.bps | 8,816,772 | f7c1c5123aff3b721ab233c7f4725665616b24064ded95fab71156161a026b53 |
-| InazumaEleven3-Bomber-KO-v1.0.6.2.bps | 8,758,858 | e349508b1426f33d239c971319c4d117e516c09573e6f01a44c847b0e4db96c9 |
+| InazumaEleven3-Ogre-KO-v1.0.7.zip | 8,826,032 | ce78a3e9ed5a426b299d5eef1fbb5a8dd5a10ab71bc81fd448c952f57d231531 |
+| InazumaEleven3-Spark-KO-v1.0.7.zip | 7,606,824 | 99847f79c89d69d5757804b6deaf464350660e4208c62db75f57acab96074011 |
+| InazumaEleven3-Bomber-KO-v1.0.7.zip | 7,547,056 | b858ad786cbbf2cac146b3de10af1b8f2953542be71c81d5b1616df1b19e7957 |
+| InazumaEleven3-Ogre-KO-v1.0.7.bps | 10,143,942 | ed119675828209463c0cf0b37f1a70597a052d0d339bce4d2a5912ee4a4e6a79 |
+| InazumaEleven3-Spark-KO-v1.0.7.bps | 8,816,795 | 3d3bf53ad969c7d481b25b7a28ce83b4ab8a4e7577929b7749032677ba228872 |
+| InazumaEleven3-Bomber-KO-v1.0.7.bps | 8,758,879 | bc8fa3b80d0e90e2b1a41d8d41beb32dd638d5fc07a11c0a8a38d9c44a2a169f |
+| 휴대폰_연동_순서.html | 19,190 | 4f24470719f22d96784149210e95f6df35325b71128e04f289924a21d977da1c |
 
-ZIP에는 BPS 패치, 적용 스크립트(apply_patch.py, bps.py), 설명서(README.txt), manifest.json, 사용한 글꼴 6종의 라이선스가 들어 있습니다. 내려받은 파일은 SHA256SUMS.txt로 확인할 수 있습니다.
+ZIP에는 BPS 패치, 적용 스크립트(apply_patch.py, bps.py), 설명서(README.txt), 오프라인 순서 조회기(휴대폰_연동_순서.html), manifest.json, 사용한 글꼴 6종의 라이선스가 들어 있습니다. 내려받은 파일은 SHA256SUMS.txt로 확인할 수 있습니다.
+
 
 ## 추가 기능
 
 번역 외에 새로 넣은 기능입니다. 일본 서비스가 끝났거나 다른 판이 있어야 얻을 수 있던 요소를 통신 없이 혼자 얻을 수 있게 했습니다. 해금 데이터는 원래 ROM 안에 있던 것입니다.
 
+### 세 판 공통
+
 - **암호를 게임 안에서 알기:** 일본판에서 잡지나 웹으로 공개하던 NPC 암호를 한글 정답으로 바꾸고, 해당 NPC가 대사에서 정답을 알려 주게 했습니다. 묻는 NPC가 없는 디 오우거의 극장판 암호는 입력 화면에 정답을 적었습니다.
 - **배포 받기:** 통신 → 다운로드의 「Wi-Fi로 다운로드」나 「무선으로 다운로드」를 고르면 실제 통신 없이 배포 전체를 한 번에 받습니다. 배포 선수 60명(Wi-Fi 52명, 무선 8명)과 배포 아이템(디 오우거 19종, 스파크·봄버 20종)이며 블로그 알림도 생깁니다. 받은 뒤 저장을 고르고 이어하기로 불러와야 반영되며, 저장하지 않으면 남지 않습니다. 아이템은 상점에서 원래 가격으로 사고, 선수는 원래 방법으로 영입합니다.
 - **프리미엄 스카우트·아이템:** 통신 → 다운로드의 「2→3 슈퍼 링크」에서 스카우트와 아이템을 통신 없이 고릅니다. 디 오우거는 「오우거 프리미엄 링크」도 같습니다. 원래 상대 게임의 팀을 보던 조건은 껐습니다. 스토리가 어느 정도 진행된 세이브에서 열립니다.
-- **휴대폰 연동:** 옵션의 「휴대폰 연동」에서 아무 글자나 8자를 입력하면, 아직 없는 연동 선수 190명을 차례로 불러옵니다. 공식 사이트에서 받던 암호가 필요 없습니다. 옵션 메뉴는 원래처럼 스토리가 어느 정도 진행된 세이브에서 열립니다.
+- **휴대폰 연동** 메뉴는 스토리가 어느 정도 진행된 세이브에서 열립니다. 원하는 선수의 별명을 입력하거나 다른 글자를 입력해 내 이름에 따른 기본 순서로 부를 수 있습니다. 자세한 사용법은 위의 「v1.0.7 휴대폰 연동」을 보세요.
 - **극장판 연동:** 스토리를 클리어한 뒤 옵션의 극장판 연동에서 어떤 답을 넣어도 통과합니다. 선수 2명과 비전서 1권을 받을 수 있습니다.
 
 ### 디 오우거
