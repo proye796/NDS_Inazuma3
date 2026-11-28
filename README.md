@@ -1,4 +1,4 @@
-# 이나즈마 일레븐 3 세계로의 도전!! NDS 한국어 패치 v1.0.6
+# 이나즈마 일레븐 3 세계로의 도전!! NDS 한국어 패치 v1.0.6.2
 
 배포일: 2026-11-28\
 대상: 일본판 세 판 — 디 오우거 BOEJ, 스파크 BE8J, 봄버 BEZJ, 모두 revision 0
@@ -23,34 +23,32 @@
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| InazumaEleven3-Ogre-KO-v1.0.6.nds | 536,870,912 | 3f5c68c6716e48dfef5f62aef13bd6770d396bbc50e11d7649c9ec4b9dc1e799 |
-| InazumaEleven3-Spark-KO-v1.0.6.nds | 536,870,912 | f43f4bb11b1fa9593e74949ea6e56619959bcce01a2fcf89045d02d36a56b513 |
-| InazumaEleven3-Bomber-KO-v1.0.6.nds | 536,870,912 | 0f7a201b5073eb7f3c02d0de9118df55ae2d2bcb05e20a9ac083fa0b2d06d31d |
+| InazumaEleven3-Ogre-KO-v1.0.6.2.nds | 536,870,912 | 28816686bf48014f45588db3bd7002dbf9b1196f5f71b782a11b9d1776c1cd55 |
+| InazumaEleven3-Spark-KO-v1.0.6.2.nds | 536,870,912 | 988a336ba81dbcc815c867b2df53b6e402c9b662e04ec0dd2fe9ba83a914163a |
+| InazumaEleven3-Bomber-KO-v1.0.6.2.nds | 536,870,912 | 58e18d65aca836e95714192c4a3c43653ee367fb4e68900f11869d446262d6c1 |
 
 결과 SHA-1:
 
-- InazumaEleven3-Ogre-KO-v1.0.6.nds: `b792173af271e4f0395b65e175ac75dacf522214`
-- InazumaEleven3-Spark-KO-v1.0.6.nds: `b14a4fc38fe343b167e132c84b2db967b9025b88`
-- InazumaEleven3-Bomber-KO-v1.0.6.nds: `fb951eba036a8a21c9ef75c95188e676a194486e`
+- InazumaEleven3-Ogre-KO-v1.0.6.2.nds: `4511db2b668cc19ea9b7fa0b64163cf03c3531c1`
+- InazumaEleven3-Spark-KO-v1.0.6.2.nds: `e6d21cf701b53ad0ca8ccfbf65bf656892b49e8f`
+- InazumaEleven3-Bomber-KO-v1.0.6.2.nds: `f73b7a1232f6b38cc47f73b75691a2d7eaa87fc5`
 
 ## 배포 파일
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| InazumaEleven3-Ogre-KO-v1.0.6.zip | 8,816,189 | 219abc480d054330c6e24a5b3469ca337e71a1a4fb037836f5382c85ec38d874 |
-| InazumaEleven3-Spark-KO-v1.0.6.zip | 7,596,439 | 3b96a6aa9920b636f85b4e252ddc68fe15d23878d81f49c50806e0244435cdf7 |
-| InazumaEleven3-Bomber-KO-v1.0.6.zip | 7,537,571 | c0fa9b35614573410822a6743815105fe8cd869282acece4c6e8e0e95dc3d4d8 |
-| InazumaEleven3-Ogre-KO-v1.0.6.bps | 10,148,608 | 4cdbd190a415b0b197504d067b39181fec0623d76bc1c595d115303566286d4e |
-| InazumaEleven3-Spark-KO-v1.0.6.bps | 8,819,915 | dd4d5b73e270b6a36f10e73b8908903c03137d1d2d8d582de500ef8cb656ec74 |
-| InazumaEleven3-Bomber-KO-v1.0.6.bps | 8,762,024 | 358db7360e9e00f6e95bb27d0d2601baefd743022f978781d2577241b2bc1c66 |
+| InazumaEleven3-Ogre-KO-v1.0.6.2.zip | 8,813,423 | 587ee0f55fa2819db78acd83ae34c0c7435ce43ab7045719b25a535d401790ee |
+| InazumaEleven3-Spark-KO-v1.0.6.2.zip | 7,594,228 | 89bf2353220a0e712e26dec105bc3782a1da3cec9d01eb9d5ec9d0a7f9d63264 |
+| InazumaEleven3-Bomber-KO-v1.0.6.2.zip | 7,534,451 | 76f0b257aa01b09c4f8759e939462a0d578aa82173b0a1d393168fc8aae14910 |
+| InazumaEleven3-Ogre-KO-v1.0.6.2.bps | 10,143,932 | f8feb73b235b141bcacdb157ea07aa1527769654aec719274b9f16163e6c0caf |
+| InazumaEleven3-Spark-KO-v1.0.6.2.bps | 8,816,772 | f7c1c5123aff3b721ab233c7f4725665616b24064ded95fab71156161a026b53 |
+| InazumaEleven3-Bomber-KO-v1.0.6.2.bps | 8,758,858 | e349508b1426f33d239c971319c4d117e516c09573e6f01a44c847b0e4db96c9 |
 
 ZIP에는 BPS 패치, 적용 스크립트(apply_patch.py, bps.py), 설명서(README.txt), manifest.json, 사용한 글꼴 6종의 라이선스가 들어 있습니다. 내려받은 파일은 SHA256SUMS.txt로 확인할 수 있습니다.
 
 ## 추가 기능
 
 번역 외에 새로 넣은 기능입니다. 일본 서비스가 끝났거나 다른 판이 있어야 얻을 수 있던 요소를 통신 없이 혼자 얻을 수 있게 했습니다. 해금 데이터는 원래 ROM 안에 있던 것입니다.
-
-### 세 판 공통
 
 - **암호를 게임 안에서 알기:** 일본판에서 잡지나 웹으로 공개하던 NPC 암호를 한글 정답으로 바꾸고, 해당 NPC가 대사에서 정답을 알려 주게 했습니다. 묻는 NPC가 없는 디 오우거의 극장판 암호는 입력 화면에 정답을 적었습니다.
 - **배포 받기:** 통신 → 다운로드의 「Wi-Fi로 다운로드」나 「무선으로 다운로드」를 고르면 실제 통신 없이 배포 전체를 한 번에 받습니다. 배포 선수 60명(Wi-Fi 52명, 무선 8명)과 배포 아이템(디 오우거 19종, 스파크·봄버 20종)이며 블로그 알림도 생깁니다. 받은 뒤 저장을 고르고 이어하기로 불러와야 반영되며, 저장하지 않으면 남지 않습니다. 아이템은 상점에서 원래 가격으로 사고, 선수는 원래 방법으로 영입합니다.
@@ -67,4 +65,3 @@ ZIP에는 BPS 패치, 적용 스크립트(apply_patch.py, bps.py), 설명서(REA
 - **시크릿:** 자기 판의 라이벌을 이긴 뒤 통신 메뉴의 시크릿에서 다른 판 없이 해금합니다.
 - **다른 판 전용 팀:** 다른 판의 필드 조우 경기를 합쳤습니다. 자기 판의 조우에서 만나지 못하던 선수 스파크 87명, 봄버 88명을 만날 수 있습니다.
 - 판 전용 아이템은 열지 않았습니다.
-\
